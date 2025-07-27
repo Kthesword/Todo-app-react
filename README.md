@@ -25,5 +25,5 @@ A simple yet fully functional Todo List application built using **React** and **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-list-react-ts.git
+git clone https://github.com/Kthesword/todo-list-react-ts.git
 cd todo-list-react-ts
